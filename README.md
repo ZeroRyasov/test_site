@@ -7,6 +7,5 @@ We test our site (https://www.saucedemo.com/) with Python and Selenium
 
 For run test use
 
-...
-python test_site.py 
-...
+
+ > python test_site.py 
